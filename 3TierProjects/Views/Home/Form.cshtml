@@ -1,0 +1,52 @@
+﻿@model _3TierProjects3.DAL.model.StudentModel
+
+
+    <div id="page-wrapper">
+        <h1>Employee Detail Form</h1>
+        <div class="container-fluid">
+            <div class="col-lg-4">
+                <form asp-action="Form">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <input asp-for="Id" type="hidden" />
+                    <br />
+                    <div class="form-group">
+                        <label asp-for="Name" class="control-label"></label>
+                        <input asp-for="Name" class="form-control" required />
+                        <span asp-validation-for="Name" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Email" class="control-label"></label>
+                        <input asp-for="Email" type="email" class="form-control" required />
+                        <span asp-validation-for="Email" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="PhoneNo" class="control-label"></label>
+                        <input asp-for="PhoneNo" type="tel" class="form-control" required />
+                        <span asp-validation-for="PhoneNo" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Address" class="control-label"></label>
+                        <input asp-for="Address" class="form-control" required />
+                        <span asp-validation-for="Address" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Class" class="control-label"></label>
+                        <input asp-for="Class" class="form-control" required />
+                        <span asp-validation-for="Class" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="StudentId" class="control-label"></label>
+                        <input asp-for="StudentId" class="form-control" required />
+                        <span asp-validation-for="StudentId" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <input type="submit" value="Create" class="btn btn-primary" />
+                    </div>
+                </form>
+            </div>
+        </div>
+
+        <div>
+            <a asp-action="Table">Back to List</a>
+        </div>
+    </div>
