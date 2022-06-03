@@ -33,6 +33,7 @@
 
 
 function Update() {
+    ShowLoading();
     debugger;
     var emp = {
         Id: $('#Id').val(),
@@ -43,12 +44,13 @@ function Update() {
         Class: $('#Class').val(),
         StudentId: $('#StudentId').val(),
     };
+    ClosePopup();
     $.ajax({
         url: "/Home/Update",
         data: emp,
         type: "POST",
         success: function (result) {
-            ClosePopup();
+            HideLoading();
             location.reload();
         },
         error: function (errormessage) {
@@ -58,7 +60,6 @@ function Update() {
 }
 
 function ResetFormControl() {
-    debugger;
     $('#Id').val("");
     $('#Name').val("");
     $('#Email').val("");
@@ -69,7 +70,9 @@ function ResetFormControl() {
 }
 
 function ClosePopup() {
-    debugger;
     ResetFormControl();
     $('#myModal').modal('hide');
 }
+
+function ShowLoading() { $('.spanner').addClass('show'); }
+function HideLoading() { $('.spanner').removeClass('show'); }

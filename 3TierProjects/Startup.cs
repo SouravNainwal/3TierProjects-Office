@@ -1,3 +1,4 @@
+using _3TierProjects.Controllers;
 using _3TierProjects1.BAL;
 using _3TierProjects2.Service.IServices;
 using _3TierProjects2.Service.Repository;
@@ -30,11 +31,15 @@ namespace _3TierProjects1
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+
             services.AddDbContext<StudentContext>(options => options.UseSqlServer(
            Configuration.GetConnectionString("StudentConnection")));
+
             services.AddTransient<IStudent, Student>();
+
             services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
            .AddCookie(o => o.LoginPath = new PathString("/Student/Login"));
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -57,7 +62,7 @@ namespace _3TierProjects1
 
             app.UseAuthentication();
 
-            app.UseAuthorization();          
+            app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
             {

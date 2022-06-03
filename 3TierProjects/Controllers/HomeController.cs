@@ -22,12 +22,12 @@ namespace _3TierProjects1.Controllers
             this._StudentServices = _StudentServices;
             _log = log;
         }
-        
+        [Authorize]
         public IActionResult Index()
         {
             return View();
         }
-      
+        [Authorize]
         public IActionResult Table()
         {
             _log.LogInformation("Hello you are accesing the Employee Detail");
