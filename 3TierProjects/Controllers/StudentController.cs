@@ -29,33 +29,32 @@ namespace _3TierProjects.Controllers
         [HttpPost]
         public IActionResult Login(LoginModel objUser)
         {
-            var res = _db.LoginTable.Where(a => a.Email == objUser.Email && a.Password == objUser.Password).FirstOrDefault();
-            if (res == null )
+            var res = _db.LoginTable.Where(a => a.Email == objUser.Email).FirstOrDefault();
+            if (res == null)
             {
 
-                TempData["Invalid"] = "Please Check Your Email-id and Password";
-                return View("Login");
-            }           
+                TempData["Invalid"] = "Please Check Your Email-id";
+            }
             else
-            {                
-                    var claims = new[] {new Claim(ClaimTypes.Name, res.Name),
-                                        new Claim(ClaimTypes.Email, res.Email)};
+            {
+                if (res.Email == objUser.Email && res.Password == objUser.Password)
+                {
+                 var claims = new[] {new Claim(ClaimTypes.Name, res.Name), new Claim(ClaimTypes.Email, res.Email) };
+                 var identity = new ClaimsIdentity(claims, CookieAuthenticationDefaults.AuthenticationScheme);
+                 var authProperties = new AuthenticationProperties{ IsPersistent = true };
+                 HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme, new ClaimsPrincipal(identity), authProperties);
 
-                    var identity = new ClaimsIdentity(claims, CookieAuthenticationDefaults.AuthenticationScheme);
-
-                    var authProperties = new AuthenticationProperties
-                    {
-                        IsPersistent = true
-                    };
-                    HttpContext.SignInAsync(
-                    CookieAuthenticationDefaults.AuthenticationScheme,
-                    new ClaimsPrincipal(identity),
-                    authProperties);
-
-
-                    return RedirectToAction("Index", "Home");
+                 return RedirectToAction("Index", "Home");
+                }
+                else
+                {
+                    ViewBag.Inv = "Wrong  password";
+                    return View();
                 }              
-            }                 
+            }
+            return View();
+        }
+                         
         [HttpGet]
         public IActionResult Registration()
         {

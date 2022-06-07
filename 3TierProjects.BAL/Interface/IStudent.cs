@@ -10,8 +10,9 @@ namespace _3TierProjects2.Service.IServices
     public interface IStudent
     {
         List<StudentModel> TableShow();
-        void delete(int Id);
-        void Save(StudentModel obj);
+        public void delete(int Id);
+        public StudentModel Save(StudentModel obj);
         StudentModel Edit(StudentModel abj, int Id);
+
     }
 }

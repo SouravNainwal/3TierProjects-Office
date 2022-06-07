@@ -18,7 +18,6 @@ namespace _3TierProjects2.Service.Repository
         {
             _db = db;
         }
-
         public void delete(int Id)
         {
             var deleteitem = _db.EmployeeTable.Where(m => m.Id == Id).First();
@@ -30,7 +29,7 @@ namespace _3TierProjects2.Service.Repository
         }
 
 
-        public void Save(StudentModel obj)
+        public StudentModel Save(StudentModel obj)
         {
             if (obj.Id == 0)
             {
@@ -42,16 +41,29 @@ namespace _3TierProjects2.Service.Repository
                 _db.Entry(obj).State = EntityState.Modified;
                 _db.SaveChanges();
             }
-
+            return obj;
         }
 
 
 
         public List<StudentModel> TableShow()
         {
-            //var res = _db.EmployeeTable.ToList();
-            return _db.EmployeeTable.ToList();
-
+            List<StudentModel> list = new List<StudentModel>();
+            var res= _db.EmployeeTable.ToList();         
+            foreach (var item in res)
+            {
+                list.Add(new StudentModel
+                {
+                    Id = item.Id,
+                    Name = item.Name,
+                    Email = item.Email,
+                    PhoneNo = item.PhoneNo,
+                    Address=item.Address,
+                    Class=item.Class,
+                    StudentId=item.StudentId,
+                });
+            }
+            return list;
         }
 
         public StudentModel Edit(StudentModel abj, int Id)
@@ -71,5 +83,6 @@ namespace _3TierProjects2.Service.Repository
             return abj;
 
         }
+
     }
 }

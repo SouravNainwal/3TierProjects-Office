@@ -13,6 +13,7 @@ using System.Threading.Tasks;
 
 namespace _3TierProjects1.Controllers
 {
+    [Authorize]
     public class HomeController : Controller
     {
         private readonly IStudent _StudentServices;
@@ -22,7 +23,7 @@ namespace _3TierProjects1.Controllers
             this._StudentServices = _StudentServices;
             _log = log;
         }
-        [Authorize]
+
         public IActionResult Index()
         {
             return View();
@@ -45,11 +46,12 @@ namespace _3TierProjects1.Controllers
         public IActionResult Form(StudentModel obj)
         {
             _log.LogInformation("Enter the detail of the Employee Working on Your Team");
+
             _StudentServices.Save(obj);
             return RedirectToAction("Table");
         }
 
-        
+
         public IActionResult Delete(int Id)
         {
             _log.LogTrace("Is this Log Trace");
@@ -62,14 +64,15 @@ namespace _3TierProjects1.Controllers
         {
             var Employee = _StudentServices.TableShow().Find(x => x.Id.Equals(ID));
             return Json(Employee);
-        }       
+        }
+
         [AcceptVerbs("Post")]
         public JsonResult Update(StudentModel emp)
         {
             _StudentServices.Save(emp);
             return Json("Success");
         }
-        [Authorize]
+
         public IActionResult Privacy()
         {
             return View();

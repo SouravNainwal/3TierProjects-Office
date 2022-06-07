@@ -1,95 +1,94 @@
 ﻿@model List<_3TierProjects3.DAL.model.StudentModel>
 
-    <br />
-    <h1>Employee List</h1>
-    <br />
-    <div>
-        <a asp-action="Form">Create New</a>
-    </div>
-
-    <table class="table">
-        <thead>
-            <tr>
-
-                <th scope="col" style="border: 1px solid black;">Name</th>
-                <th scope="col" style="border: 1px solid black;">Email</th>
-                <th scope="col" style="border: 1px solid black;">Phone_No</th>
-                <th scope="col" style="border: 1px solid black;">Address</th>
-                <th scope="col" style="border: 1px solid black;">Class</th>
-                <th scope="col" style="border: 1px solid black;">StudentId</th>
-                <th scope="col" style="border: 1px solid black;">Action</th>
-            </tr>
-        </thead>
-        <tbody>
-            @foreach (var item in Model)
-            {
+        <br />
+        <h1>Employee List</h1>
+        <br />
+        <div>
+            <a asp-action="Form">Create New</a>
+        </div>
+        <table class="display" id="myTable">
+            <thead>
                 <tr>
 
-                    <td scope="row" style="border: 1px solid black;">@item.Name </td>
-                    <td scope="row" style="border: 1px solid black;">@item.Email </td>
-                    <td scope="row" style="border: 1px solid black;">@item.PhoneNo </td>
-                    <td scope="row" style="border: 1px solid black;">@item.Address </td>
-                    <td scope="row" style="border: 1px solid black;">@item.Class </td>
-                    <td scope="row" style="border: 1px solid black;">@item.StudentId </td>
-                    <td scope="row" style="border: 1px solid black;">
-                        <a onclick="return getbyID(@item.Id)"><i class="fa fa-edit"></i></a> ||
-                        <a asp-action="Details" asp-controller="Student" asp-route-id="@item.Id"><i class="fa fa-address-book"></i></a> ||
-                        <a asp-action="Delete" asp-controller="Home" asp-route-id="@item.Id"><i class="fa fa-trash"></i></a>
-                    </td>
-
+                    <th scope="col" style="border: 1px solid black;">Name</th>
+                    <th scope="col" style="border: 1px solid black;">Email</th>
+                    <th scope="col" style="border: 1px solid black;">Phone_No</th>
+                    <th scope="col" style="border: 1px solid black;">Address</th>
+                    <th scope="col" style="border: 1px solid black;">Class</th>
+                    <th scope="col" style="border: 1px solid black;">StudentId</th>
+                    <th scope="col" style="border: 1px solid black;">Action</th>
                 </tr>
-            }
-        </tbody>
-    </table>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+
+                        <td scope="row" style="border: 1px solid black;">@item.Name </td>
+                        <td scope="row" style="border: 1px solid black;">@item.Email </td>
+                        <td scope="row" style="border: 1px solid black;">@item.PhoneNo </td>
+                        <td scope="row" style="border: 1px solid black;">@item.Address </td>
+                        <td scope="row" style="border: 1px solid black;">@item.Class </td>
+                        <td scope="row" style="border: 1px solid black;">@item.StudentId </td>
+                        <td scope="row" style="border: 1px solid black;">
+                            <a onclick="return getbyID(@item.Id)"><i class="fa fa-edit" style="color:blue"></i></a> ||
+                            <a asp-action="Details" asp-controller="Student" asp-route-id="@item.Id"><i class="fa fa-address-book" style="color:forestgreen"></i></a> ||
+                            <a asp-action="Delete" asp-controller="Home" asp-route-id="@item.Id"><i class="fa fa-trash" style="color:red"></i></a>
+                        </td>
+
+                    </tr>
+                }
+            </tbody>
+        </table>
 
 
-<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-    <div class="modal-dialog" role="document">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h3 class="modal-title" id="exampleModalLabel">Edit Employee</h3>
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                <span aria-hidden="true">&times;</span>
-            </button>
-            </div>           
-            <div class="modal-body">
-                <form>
-                    <div class="form-group">
-                        <label for="Id"></label>
-                        <input type="hidden" class="form-control" id="Id" placeholder="EmployeeID" disabled="disabled" />
-                    </div>
-                    <div class="form-group">
-                        <label for="Name">Name</label>
-                        <input type="text" class="form-control" id="Name" placeholder="Name" />
-                    </div>
-                    <div class="form-group">
-                        <label for="Email">Email</label>
-                        <input type="text" class="form-control" id="Email" placeholder="Email" />
-                    </div>
-                    <div class="form-group">
-                        <label for="PhoneNo">PhoneNo</label>
-                        <input type="text" class="form-control" id="PhoneNo" placeholder="PhoneNo" />
-                    </div>
-                    <div class="form-group">
-                        <label for="Address">Address</label>
-                        <input type="text" class="form-control" id="Address" placeholder="Address" />
-                    </div>
-                    <div class="form-group">
-                        <label for="Class">Class</label>
-                        <input type="text" class="form-control" id="Class" placeholder="Class" />
-                    </div>
-                    <div class="form-group">
-                        <label for="StudentId">StudentId</label>
-                        <input type="text" class="form-control" id="StudentId" placeholder="StudentId" />
-                    </div>
-                </form>
-            </div>
-            <div class="modal-footer">
-                <button type="button" class="btn btn-primary" id="btnUpdate" onclick="return Update();">Update</button>
-                <button type="button" class="btn btn-default" onclick="ClosePopup();">Close</button>
+    <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h3 class="modal-title" id="exampleModalLabel">Edit Employee</h3>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <form>
+                        <div class="form-group">
+                            <label for="Id"></label>
+                            <input type="hidden" class="form-control" id="Id" placeholder="EmployeeID" disabled="disabled" />
+                        </div>
+                        <div class="form-group">
+                            <label for="Name">Name</label>
+                            <input type="text" class="form-control" id="Name" placeholder="Name" />
+                        </div>
+                        <div class="form-group">
+                            <label for="Email">Email</label>
+                            <input type="text" class="form-control" id="Email" placeholder="Email" />
+                        </div>
+                        <div class="form-group">
+                            <label for="PhoneNo">PhoneNo</label>
+                            <input type="text" class="form-control" id="PhoneNo" placeholder="PhoneNo" />
+                        </div>
+                        <div class="form-group">
+                            <label for="Address">Address</label>
+                            <input type="text" class="form-control" id="Address" placeholder="Address" />
+                        </div>
+                        <div class="form-group">
+                            <label for="Class">Class</label>
+                            <input type="text" class="form-control" id="Class" placeholder="Class" />
+                        </div>
+                        <div class="form-group">
+                            <label for="StudentId">StudentId</label>
+                            <input type="text" class="form-control" id="StudentId" placeholder="StudentId" />
+                        </div>
+                    </form>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-primary" id="btnUpdate" onclick="return Update();">Update</button>
+                    <button type="button" class="btn btn-default" onclick="ClosePopup();">Close</button>
 
+                </div>
             </div>
         </div>
     </div>
-</div>
 
