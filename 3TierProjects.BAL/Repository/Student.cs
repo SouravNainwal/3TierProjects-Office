@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace _3TierProjects2.Service.Repository
 {
-    public class Student:IStudent
+    public class Student : IStudent
     {
         private readonly StudentContext _db;
 
@@ -27,25 +27,6 @@ namespace _3TierProjects2.Service.Repository
             //return _db.EmployeeTable.ToList();
 
         }
-
-
-        public StudentModel Save(StudentModel obj)
-        {
-            if (obj.Id == 0)
-            {
-                _db.EmployeeTable.Add(obj);
-                _db.SaveChanges();
-            }
-            else
-            {
-                _db.Entry(obj).State = EntityState.Modified;
-                _db.SaveChanges();
-            }
-            return obj;
-        }
-
-
-
         public List<StudentModel> TableShow()
         {
             List<StudentModel> list = new List<StudentModel>();
@@ -66,23 +47,26 @@ namespace _3TierProjects2.Service.Repository
             return list;
         }
 
-        public StudentModel Edit(StudentModel abj, int Id)
+        public void Edit(int Id)
         {
-
-
-            var edititem = _db.EmployeeTable.Where(m => m.Id == Id).FirstOrDefault();
-
-            abj.Id = edititem.Id;
-            abj.Name = edititem.Name;
-            abj.Email = edititem.Email;
-            abj.PhoneNo = edititem.PhoneNo;
-            abj.Address = edititem.Address;
-            abj.Class = edititem.Class;
-            abj.StudentId = edititem.StudentId;
-
-            return abj;
-
+            
         }
-
+        public async Task<StudentModel> Save(StudentModel obj,int Id)
+        {
+            var edititem = _db.EmployeeTable.Where(m => m.Id == Id).First();
+            if (obj.Id == 0)
+            {
+                var res = await _db.EmployeeTable.AddAsync(obj);
+                _db.SaveChanges();
+                return res.Entity;
+            }
+            else
+            {
+                _db.Entry(obj).State = EntityState.Modified;
+                _db.SaveChanges();
+                return obj;
+            }
+            
+        }
     }
 }

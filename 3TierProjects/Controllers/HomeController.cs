@@ -32,8 +32,8 @@ namespace _3TierProjects1.Controllers
         public IActionResult Table()
         {
             _log.LogInformation("Hello you are accesing the Employee Detail");
-            var res = _StudentServices.TableShow();
-            return View(res);
+            //var res = _StudentServices.TableShow();
+            return View();
         }
         [Authorize]
         [HttpGet]
@@ -43,11 +43,11 @@ namespace _3TierProjects1.Controllers
             return View();
         }
         [HttpPost]
-        public IActionResult Form(StudentModel obj)
+        public IActionResult Form(StudentModel obj,int Id)
         {
             _log.LogInformation("Enter the detail of the Employee Working on Your Team");
 
-            _StudentServices.Save(obj);
+            _StudentServices.Save(obj,Id);
             return RedirectToAction("Table");
         }
 
@@ -67,9 +67,9 @@ namespace _3TierProjects1.Controllers
         }
 
         [AcceptVerbs("Post")]
-        public JsonResult Update(StudentModel emp)
+        public JsonResult Update(StudentModel emp,int Id)
         {
-            _StudentServices.Save(emp);
+            _StudentServices.Save(emp,Id);
             return Json("Success");
         }
 

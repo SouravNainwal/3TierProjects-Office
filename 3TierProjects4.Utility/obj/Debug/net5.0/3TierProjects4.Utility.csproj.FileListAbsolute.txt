@@ -1,0 +1,28 @@
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects4.Utility\bin\Debug\net5.0\3TierProjects4.Utility.deps.json
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects4.Utility\bin\Debug\net5.0\3TierProjects4.Utility.runtimeconfig.json
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects4.Utility\bin\Debug\net5.0\3TierProjects4.Utility.runtimeconfig.dev.json
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects4.Utility\bin\Debug\net5.0\3TierProjects4.Utility.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects4.Utility\bin\Debug\net5.0\ref\3TierProjects4.Utility.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects4.Utility\bin\Debug\net5.0\3TierProjects4.Utility.pdb
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects4.Utility\obj\Debug\net5.0\3TierProjects4.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects4.Utility\obj\Debug\net5.0\3TierProjects4.Utility.AssemblyInfoInputs.cache
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects4.Utility\obj\Debug\net5.0\3TierProjects4.Utility.AssemblyInfo.cs
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects4.Utility\obj\Debug\net5.0\3TierProjects4.Utility.csproj.CoreCompileInputs.cache
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects4.Utility\obj\Debug\net5.0\3TierProjects4.Utility.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects4.Utility\obj\Debug\net5.0\ref\3TierProjects4.Utility.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects4.Utility\obj\Debug\net5.0\3TierProjects4.Utility.pdb
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects4.Utility\obj\Debug\net5.0\3TierProjects4.Utility.genruntimeconfig.cache
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects4.Utility\bin\Debug\net5.0\3TierProjects4.Utility.deps.json
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects4.Utility\bin\Debug\net5.0\3TierProjects4.Utility.runtimeconfig.json
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects4.Utility\bin\Debug\net5.0\3TierProjects4.Utility.runtimeconfig.dev.json
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects4.Utility\bin\Debug\net5.0\3TierProjects4.Utility.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects4.Utility\bin\Debug\net5.0\ref\3TierProjects4.Utility.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects4.Utility\bin\Debug\net5.0\3TierProjects4.Utility.pdb
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects4.Utility\obj\Debug\net5.0\3TierProjects4.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects4.Utility\obj\Debug\net5.0\3TierProjects4.Utility.AssemblyInfoInputs.cache
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects4.Utility\obj\Debug\net5.0\3TierProjects4.Utility.AssemblyInfo.cs
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects4.Utility\obj\Debug\net5.0\3TierProjects4.Utility.csproj.CoreCompileInputs.cache
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects4.Utility\obj\Debug\net5.0\3TierProjects4.Utility.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects4.Utility\obj\Debug\net5.0\ref\3TierProjects4.Utility.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects4.Utility\obj\Debug\net5.0\3TierProjects4.Utility.pdb
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects4.Utility\obj\Debug\net5.0\3TierProjects4.Utility.genruntimeconfig.cache

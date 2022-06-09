@@ -1,0 +1,40 @@
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects.BAL\bin\Debug\net5.0\3TierProjects1.BAL.deps.json
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects.BAL\bin\Debug\net5.0\3TierProjects1.BAL.runtimeconfig.json
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects.BAL\bin\Debug\net5.0\3TierProjects1.BAL.runtimeconfig.dev.json
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects.BAL\bin\Debug\net5.0\3TierProjects1.BAL.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects.BAL\bin\Debug\net5.0\ref\3TierProjects1.BAL.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects.BAL\bin\Debug\net5.0\3TierProjects1.BAL.pdb
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects.BAL\bin\Debug\net5.0\3TierProjects3.DAL.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects.BAL\bin\Debug\net5.0\3TierProjects4.Utility.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects.BAL\bin\Debug\net5.0\3TierProjects3.DAL.pdb
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects.BAL\bin\Debug\net5.0\3TierProjects4.Utility.pdb
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects.BAL\obj\Debug\net5.0\3TierProjects1.BAL.csproj.AssemblyReference.cache
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects.BAL\obj\Debug\net5.0\3TierProjects1.BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects.BAL\obj\Debug\net5.0\3TierProjects1.BAL.AssemblyInfoInputs.cache
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects.BAL\obj\Debug\net5.0\3TierProjects1.BAL.AssemblyInfo.cs
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects.BAL\obj\Debug\net5.0\3TierProjects1.BAL.csproj.CoreCompileInputs.cache
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects.BAL\obj\Debug\net5.0\3TierProjects1.BAL.csproj.CopyComplete
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects.BAL\obj\Debug\net5.0\3TierProjects1.BAL.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects.BAL\obj\Debug\net5.0\ref\3TierProjects1.BAL.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects.BAL\obj\Debug\net5.0\3TierProjects1.BAL.pdb
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects.BAL\obj\Debug\net5.0\3TierProjects1.BAL.genruntimeconfig.cache
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects.BAL\bin\Debug\net5.0\3TierProjects1.BAL.deps.json
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects.BAL\bin\Debug\net5.0\3TierProjects1.BAL.runtimeconfig.json
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects.BAL\bin\Debug\net5.0\3TierProjects1.BAL.runtimeconfig.dev.json
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects.BAL\bin\Debug\net5.0\3TierProjects1.BAL.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects.BAL\bin\Debug\net5.0\ref\3TierProjects1.BAL.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects.BAL\bin\Debug\net5.0\3TierProjects1.BAL.pdb
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects.BAL\bin\Debug\net5.0\3TierProjects3.DAL.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects.BAL\bin\Debug\net5.0\3TierProjects4.Utility.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects.BAL\bin\Debug\net5.0\3TierProjects3.DAL.pdb
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects.BAL\bin\Debug\net5.0\3TierProjects4.Utility.pdb
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects.BAL\obj\Debug\net5.0\3TierProjects1.BAL.csproj.AssemblyReference.cache
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects.BAL\obj\Debug\net5.0\3TierProjects1.BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects.BAL\obj\Debug\net5.0\3TierProjects1.BAL.AssemblyInfoInputs.cache
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects.BAL\obj\Debug\net5.0\3TierProjects1.BAL.AssemblyInfo.cs
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects.BAL\obj\Debug\net5.0\3TierProjects1.BAL.csproj.CoreCompileInputs.cache
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects.BAL\obj\Debug\net5.0\3TierProjects1.BAL.csproj.CopyComplete
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects.BAL\obj\Debug\net5.0\3TierProjects1.BAL.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects.BAL\obj\Debug\net5.0\ref\3TierProjects1.BAL.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects.BAL\obj\Debug\net5.0\3TierProjects1.BAL.pdb
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects.BAL\obj\Debug\net5.0\3TierProjects1.BAL.genruntimeconfig.cache

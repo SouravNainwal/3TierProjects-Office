@@ -1,0 +1,336 @@
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\appsettings.json
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\3TierProjects.exe
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\3TierProjects.deps.json
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\3TierProjects.runtimeconfig.json
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\3TierProjects.runtimeconfig.dev.json
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\3TierProjects.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\ref\3TierProjects.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\3TierProjects.pdb
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\3TierProjects.Views.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\3TierProjects.Views.pdb
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\Humanizer.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\3TierProjects1.BAL.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\3TierProjects3.DAL.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\3TierProjects4.Utility.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\3TierProjects1.BAL.pdb
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\3TierProjects3.DAL.pdb
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\bin\Debug\net5.0\3TierProjects4.Utility.pdb
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\obj\Debug\net5.0\3TierProjects.csproj.AssemblyReference.cache
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\obj\Debug\net5.0\3TierProjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\obj\Debug\net5.0\3TierProjects.AssemblyInfoInputs.cache
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\obj\Debug\net5.0\3TierProjects.AssemblyInfo.cs
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\obj\Debug\net5.0\3TierProjects.csproj.CoreCompileInputs.cache
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\obj\Debug\net5.0\3TierProjects.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\obj\Debug\net5.0\3TierProjects.RazorAssemblyInfo.cache
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\obj\Debug\net5.0\3TierProjects.RazorAssemblyInfo.cs
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\obj\Debug\net5.0\staticwebassets\3TierProjects.StaticWebAssets.Manifest.cache
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\obj\Debug\net5.0\staticwebassets\3TierProjects.StaticWebAssets.xml
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\obj\Debug\net5.0\scopedcss\bundle\3TierProjects.styles.css
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\obj\Debug\net5.0\3TierProjects.TagHelpers.input.cache
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\obj\Debug\net5.0\3TierProjects.TagHelpers.output.cache
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\obj\Debug\net5.0\3TierProjects.RazorCoreGenerate.cache
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\obj\Debug\net5.0\Razor\Views\Home\Form.cshtml.g.cs
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\obj\Debug\net5.0\Razor\Views\Home\Table.cshtml.g.cs
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\obj\Debug\net5.0\Razor\Views\Shared\LoadData.cshtml.g.cs
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\obj\Debug\net5.0\Razor\Views\Student\Details.cshtml.g.cs
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\obj\Debug\net5.0\Razor\Views\Student\Login.cshtml.g.cs
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\obj\Debug\net5.0\Razor\Views\Student\Registration.cshtml.g.cs
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\obj\Debug\net5.0\3TierProjects.RazorTargetAssemblyInfo.cache
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\obj\Debug\net5.0\3TierProjects.RazorTargetAssemblyInfo.cs
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\obj\Debug\net5.0\3TierProjects.Views.pdb
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\obj\Debug\net5.0\3TierProjects.csproj.CopyComplete
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\obj\Debug\net5.0\3TierProjects.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\obj\Debug\net5.0\ref\3TierProjects.dll
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\obj\Debug\net5.0\3TierProjects.pdb
+C:\Users\souravn\source\repos\3TierProjects\3TierProjects\obj\Debug\net5.0\3TierProjects.genruntimeconfig.cache
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\appsettings.json
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\3TierProjects.exe
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\3TierProjects.deps.json
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\3TierProjects.runtimeconfig.json
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\3TierProjects.runtimeconfig.dev.json
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\3TierProjects.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\ref\3TierProjects.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\3TierProjects.pdb
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\3TierProjects.Views.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\3TierProjects.Views.pdb
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\Humanizer.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\3TierProjects1.BAL.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\3TierProjects3.DAL.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\3TierProjects4.Utility.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\3TierProjects1.BAL.pdb
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\3TierProjects3.DAL.pdb
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\3TierProjects4.Utility.pdb
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\obj\Debug\net5.0\3TierProjects.csproj.AssemblyReference.cache
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\obj\Debug\net5.0\3TierProjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\obj\Debug\net5.0\3TierProjects.AssemblyInfoInputs.cache
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\obj\Debug\net5.0\3TierProjects.AssemblyInfo.cs
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\obj\Debug\net5.0\3TierProjects.csproj.CoreCompileInputs.cache
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\obj\Debug\net5.0\3TierProjects.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\obj\Debug\net5.0\3TierProjects.RazorAssemblyInfo.cache
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\obj\Debug\net5.0\3TierProjects.RazorAssemblyInfo.cs
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\obj\Debug\net5.0\staticwebassets\3TierProjects.StaticWebAssets.Manifest.cache
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\obj\Debug\net5.0\staticwebassets\3TierProjects.StaticWebAssets.xml
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\obj\Debug\net5.0\scopedcss\bundle\3TierProjects.styles.css
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\obj\Debug\net5.0\3TierProjects.TagHelpers.input.cache
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\obj\Debug\net5.0\3TierProjects.TagHelpers.output.cache
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\obj\Debug\net5.0\3TierProjects.RazorCoreGenerate.cache
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\obj\Debug\net5.0\Razor\Views\Home\Form.cshtml.g.cs
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\obj\Debug\net5.0\Razor\Views\Home\Table.cshtml.g.cs
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\obj\Debug\net5.0\Razor\Views\Shared\LoadData.cshtml.g.cs
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\obj\Debug\net5.0\Razor\Views\Student\Details.cshtml.g.cs
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\obj\Debug\net5.0\Razor\Views\Student\Login.cshtml.g.cs
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\obj\Debug\net5.0\Razor\Views\Student\Registration.cshtml.g.cs
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\obj\Debug\net5.0\3TierProjects.RazorTargetAssemblyInfo.cache
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\obj\Debug\net5.0\3TierProjects.RazorTargetAssemblyInfo.cs
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\obj\Debug\net5.0\3TierProjects.Views.pdb
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\obj\Debug\net5.0\3TierProjects.csproj.CopyComplete
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\obj\Debug\net5.0\3TierProjects.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\obj\Debug\net5.0\ref\3TierProjects.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\obj\Debug\net5.0\3TierProjects.pdb
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\obj\Debug\net5.0\3TierProjects.genruntimeconfig.cache
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\Google.DataTable.Net.Wrapper.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\3TierProject.Services.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\3TierProject.Services.pdb
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\obj\Debug\net5.0\3TierProjects.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\NPOI.OOXML.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\NPOI.OpenXml4Net.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\NPOI.OpenXmlFormats.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\NPOI.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\ICSharpCode.SharpZipLib.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\BoDi.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\Gherkin.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\TechTalk.SpecFlow.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\SpecFlow.Internal.Json.dll

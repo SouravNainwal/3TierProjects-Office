@@ -1,4 +1,5 @@
 ﻿using _3TierProjects3.DAL.model;
+using NPOI.SS.Formula.Functions;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,8 +12,8 @@ namespace _3TierProjects2.Service.IServices
     {
         List<StudentModel> TableShow();
         public void delete(int Id);
-        public StudentModel Save(StudentModel obj);
-        StudentModel Edit(StudentModel abj, int Id);
+        public Task<StudentModel> Save(StudentModel obj,int Id);
+        void Edit(int Id);
 
     }
 }
