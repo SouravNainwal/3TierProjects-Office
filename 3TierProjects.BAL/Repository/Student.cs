@@ -13,7 +13,6 @@ namespace _3TierProjects2.Service.Repository
     public class Student : IStudent
     {
         private readonly StudentContext _db;
-
         public Student(StudentContext db)
         {
             _db = db;

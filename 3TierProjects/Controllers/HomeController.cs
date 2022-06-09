@@ -92,10 +92,10 @@ namespace _3TierProjects1.Controllers
         }
 
         [AcceptVerbs("Post")]
-        public JsonResult Update(StudentModel emp,int Id)
+        public IActionResult Update(StudentModel emp,int Id)
         {
             _StudentServices.Edit(emp,Id);
-            return Json("Success");
+            return RedirectToAction("Table");
         }
 
         public IActionResult Privacy()

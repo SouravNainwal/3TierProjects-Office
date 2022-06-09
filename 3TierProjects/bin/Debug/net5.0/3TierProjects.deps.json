@@ -34,7 +34,6 @@
       "3TierProjects/1.0.0": {
         "dependencies": {
           "3TierProjects1.BAL": "1.0.0",
-          "3TierProjects3.DAL": "1.0.0",
           "FontAwesome": "4.7.0",
           "Google.DataTable.Net.Wrapper": "4.1.0",
           "Microsoft.AspNetCore.Session": "2.2.0",
