@@ -23,12 +23,14 @@ namespace _3TierProjects1.Controllers
     {
         Uri baseAddress = new Uri("https://localhost:44380");
         HttpClient Client;
+
         private readonly IStudent _StudentServices;
         private readonly ILogger<HomeController> _log;
         public HomeController(IStudent _StudentServices, ILogger<HomeController> log)
         {
             Client = new HttpClient();
             Client.BaseAddress = baseAddress;
+
             this._StudentServices = _StudentServices;
             _log = log;
         }
@@ -49,8 +51,7 @@ namespace _3TierProjects1.Controllers
                 Stlist = JsonConvert.DeserializeObject<List<StudentModel>>(data);
             }
             return View(Stlist);
-            //var res = _StudentServices.TableShow();
-            //return View();
+
         }
         [Authorize]
         [HttpGet]

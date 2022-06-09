@@ -44,16 +44,16 @@ namespace _3TierProjects.Controllers
         }
         [HttpDelete]
         [Route("Test/DeleteDetail")]
-        public bool DeleteDetail(int Id)
+        public string DeleteDetail(int Id)
         {
             try
             {
                 _StudentServices.delete(Id);
-                return true;
+                return "Comleted";
             }
             catch(Exception)
             {
-                return false;
+                return "Sorry Please check again";
             }
         }
         [HttpPut]
