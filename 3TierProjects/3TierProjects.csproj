@@ -21,7 +21,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\3TierProject.Services\3TierProject.Services.csproj" />
     <ProjectReference Include="..\3TierProjects.BAL\3TierProjects1.BAL.csproj" />
     <ProjectReference Include="..\3TierProjects3.DAL\3TierProjects3.DAL.csproj" />
   </ItemGroup>

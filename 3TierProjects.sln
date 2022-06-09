@@ -11,8 +11,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3TierProjects3.DAL", "3Tier
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3TierProjects4.Utility", "3TierProjects4.Utility\3TierProjects4.Utility.csproj", "{AB3B9B3C-23CC-4F20-B8FD-18DEBE07EF32}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3TierProject.Services", "3TierProject.Services\3TierProject.Services.csproj", "{E7B6D3FD-69AE-4741-92A5-A157A2D6C1C7}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,10 +33,6 @@ Global
 		{AB3B9B3C-23CC-4F20-B8FD-18DEBE07EF32}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB3B9B3C-23CC-4F20-B8FD-18DEBE07EF32}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB3B9B3C-23CC-4F20-B8FD-18DEBE07EF32}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E7B6D3FD-69AE-4741-92A5-A157A2D6C1C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E7B6D3FD-69AE-4741-92A5-A157A2D6C1C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E7B6D3FD-69AE-4741-92A5-A157A2D6C1C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E7B6D3FD-69AE-4741-92A5-A157A2D6C1C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

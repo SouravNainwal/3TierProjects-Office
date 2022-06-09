@@ -12,8 +12,8 @@ namespace _3TierProjects2.Service.IServices
     {
         List<StudentModel> TableShow();
         public void delete(int Id);
-        public Task<StudentModel> Save(StudentModel obj,int Id);
-        void Edit(int Id);
+        public void Save(StudentModel obj);
+        void Edit(StudentModel obj,int Id);
 
     }
 }

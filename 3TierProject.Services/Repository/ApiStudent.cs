@@ -47,12 +47,10 @@ namespace _3TierProject.Services.Repository
             }
         }
 
-        public async Task<StudentModel> Save(StudentModel obj)
+        public void Save(StudentModel obj)
         {                    
-                var res = await _db.EmployeeTable.AddAsync(obj);
-                _db.SaveChanges();
-                return res.Entity;
-            
+                _db.EmployeeTable.AddAsync(obj);
+                _db.SaveChanges();                           
         }
 
         public List<StudentModel> TableShow()

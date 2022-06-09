@@ -319,8 +319,6 @@ C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\n
 C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\3TierProject.Services.dll
-C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\3TierProject.Services.pdb
 C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\obj\Debug\net5.0\3TierProjects.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\NPOI.OOXML.dll
 C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\NPOI.OpenXml4Net.dll

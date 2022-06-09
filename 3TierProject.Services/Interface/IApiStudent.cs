@@ -11,7 +11,7 @@ namespace _3TierProject.Services.Interface
     {
         List<StudentModel> TableShow();
         public void delete(int Id);
-        public Task<StudentModel> Save(StudentModel obj);
+        public void Save(StudentModel obj);
         void Edit(StudentModel obj,int Id);
     }
 }

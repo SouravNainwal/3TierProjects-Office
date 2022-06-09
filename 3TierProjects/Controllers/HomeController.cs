@@ -5,10 +5,15 @@ using _3TierProjects3.DAL.model;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
+using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
+using System.Net.Http;
+using System.Net.Http.Json;
+using System.Security.Policy;
+using System.Text;
 using System.Threading.Tasks;
 
 namespace _3TierProjects1.Controllers
@@ -16,10 +21,14 @@ namespace _3TierProjects1.Controllers
     [Authorize]
     public class HomeController : Controller
     {
+        Uri baseAddress = new Uri("https://localhost:44380");
+        HttpClient Client;
         private readonly IStudent _StudentServices;
         private readonly ILogger<HomeController> _log;
         public HomeController(IStudent _StudentServices, ILogger<HomeController> log)
         {
+            Client = new HttpClient();
+            Client.BaseAddress = baseAddress;
             this._StudentServices = _StudentServices;
             _log = log;
         }
@@ -32,8 +41,16 @@ namespace _3TierProjects1.Controllers
         public IActionResult Table()
         {
             _log.LogInformation("Hello you are accesing the Employee Detail");
+            List<StudentModel> Stlist = new List<StudentModel>();
+            HttpResponseMessage response = Client.GetAsync(Client.BaseAddress + "Test/GetDetail").Result;
+            if (response.IsSuccessStatusCode)
+            {
+                string data = response.Content.ReadAsStringAsync().Result;
+                Stlist = JsonConvert.DeserializeObject<List<StudentModel>>(data);
+            }
+            return View(Stlist);
             //var res = _StudentServices.TableShow();
-            return View();
+            //return View();
         }
         [Authorize]
         [HttpGet]
@@ -43,12 +60,20 @@ namespace _3TierProjects1.Controllers
             return View();
         }
         [HttpPost]
-        public IActionResult Form(StudentModel obj,int Id)
+        public IActionResult Form(StudentModel obj)
         {
             _log.LogInformation("Enter the detail of the Employee Working on Your Team");
 
-            _StudentServices.Save(obj,Id);
-            return RedirectToAction("Table");
+            string data = JsonConvert.SerializeObject(obj);
+            StringContent content = new StringContent(data, Encoding.UTF8, "application/json");
+            HttpResponseMessage res = Client.PostAsync(Client.BaseAddress + "Test/SetDetail", content).Result;            
+            if (res.IsSuccessStatusCode)
+            {
+                return RedirectToAction("Table");
+
+            }
+            ModelState.AddModelError(string.Empty, "Server Error. Please contact administrator.");
+            return View();
         }
 
 
@@ -69,7 +94,7 @@ namespace _3TierProjects1.Controllers
         [AcceptVerbs("Post")]
         public JsonResult Update(StudentModel emp,int Id)
         {
-            _StudentServices.Save(emp,Id);
+            _StudentServices.Edit(emp,Id);
             return Json("Success");
         }
 

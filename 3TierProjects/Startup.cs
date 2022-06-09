@@ -1,6 +1,3 @@
-
-using _3TierProject.Services.Interface;
-using _3TierProject.Services.Repository;
 using _3TierProjects.Controllers;
 using _3TierProjects1.BAL;
 using _3TierProjects2.Service.IServices;
@@ -43,7 +40,6 @@ namespace _3TierProjects1
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "_3TierProjects", Version = "v1" });
             });
             services.AddTransient<IStudent, Student>();
-            services.AddTransient<IApiStudent, ApiStudent>();
             services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
            .AddCookie(o => o.LoginPath = new PathString("/Student/Login"));
             services.AddAuthorization(options =>

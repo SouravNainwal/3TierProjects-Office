@@ -2837,20 +2837,6 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
-      "3TierProject.Services/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "dependencies": {
-          "3TierProjects1.BAL": "1.0.0",
-          "Microsoft.EntityFrameworkCore": "5.0.17"
-        },
-        "compile": {
-          "bin/placeholder/3TierProject.Services.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/3TierProject.Services.dll": {}
-        }
-      },
       "3TierProjects1.BAL/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
@@ -9231,11 +9217,6 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
-    "3TierProject.Services/1.0.0": {
-      "type": "project",
-      "path": "../3TierProject.Services/3TierProject.Services.csproj",
-      "msbuildProject": "../3TierProject.Services/3TierProject.Services.csproj"
-    },
     "3TierProjects1.BAL/1.0.0": {
       "type": "project",
       "path": "../3TierProjects.BAL/3TierProjects1.BAL.csproj",
@@ -9254,7 +9235,6 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "3TierProject.Services >= 1.0.0",
       "3TierProjects1.BAL >= 1.0.0",
       "3TierProjects3.DAL >= 1.0.0",
       "FontAwesome >= 4.7.0",
@@ -9300,9 +9280,6 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\souravn\\source\\repos\\Week3 Task\\3TierProjects\\3TierProject.Services\\3TierProject.Services.csproj": {
-              "projectPath": "C:\\Users\\souravn\\source\\repos\\Week3 Task\\3TierProjects\\3TierProject.Services\\3TierProject.Services.csproj"
-            },
             "C:\\Users\\souravn\\source\\repos\\Week3 Task\\3TierProjects\\3TierProjects.BAL\\3TierProjects1.BAL.csproj": {
               "projectPath": "C:\\Users\\souravn\\source\\repos\\Week3 Task\\3TierProjects\\3TierProjects.BAL\\3TierProjects1.BAL.csproj"
             },

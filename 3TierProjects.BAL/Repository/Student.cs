@@ -47,26 +47,32 @@ namespace _3TierProjects2.Service.Repository
             return list;
         }
 
-        public void Edit(int Id)
-        {
-            
-        }
-        public async Task<StudentModel> Save(StudentModel obj,int Id)
+        public void Edit(StudentModel obj,int Id)
         {
             var edititem = _db.EmployeeTable.Where(m => m.Id == Id).First();
             if (obj.Id == 0)
             {
-                var res = await _db.EmployeeTable.AddAsync(obj);
-                _db.SaveChanges();
-                return res.Entity;
+                Console.WriteLine("There is no ID in Database");
             }
             else
             {
-                _db.Entry(obj).State = EntityState.Modified;
+                edititem.Id = obj.Id;
+                edititem.Name = obj.Name;
+                edititem.Email = obj.Email;
+                edititem.PhoneNo = obj.PhoneNo;
+                edititem.Address = obj.Address;
+                edititem.Class = obj.Class;
+                edititem.StudentId = obj.StudentId;
+
+                _db.Entry(edititem).State = EntityState.Modified;
                 _db.SaveChanges();
-                return obj;
             }
-            
+        }
+        public void Save(StudentModel obj)
+        {
+            _db.EmployeeTable.AddAsync(obj);
+            _db.SaveChanges();
         }
     }
 }
+

@@ -1,6 +1,4 @@
-﻿
-using _3TierProject.Services.Interface;
-using _3TierProjects2.Service.IServices;
+﻿using _3TierProjects2.Service.IServices;
 using _3TierProjects3.DAL.model;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -17,8 +15,8 @@ namespace _3TierProjects.Controllers
     //[ApiController]
     public class ApiController : ControllerBase
     {
-        readonly IApiStudent _StudentServices;
-        public ApiController(IApiStudent _StudentServices)
+        readonly IStudent _StudentServices;
+        public ApiController(IStudent _StudentServices)
         {
             this._StudentServices = _StudentServices;
         }
@@ -30,12 +28,12 @@ namespace _3TierProjects.Controllers
                 return rat;            
         }
         [HttpPost]
-        [Route("Test/SetDetail")]
-        public async Task<Object> SetDetail(StudentModel obj)
+        [Route("Api/SetDetail")]
+        public bool  SetDetail(StudentModel obj)
         {
             try
             {
-                await _StudentServices.Save(obj);
+                 _StudentServices.Save(obj);
                 return true;
             }
             catch (Exception)
