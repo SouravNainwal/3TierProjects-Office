@@ -21,7 +21,7 @@ namespace _3TierProjects1.Controllers
     [Authorize]
     public class HomeController : Controller
     {
-        Uri baseAddress = new Uri("https://localhost:44380");
+        Uri baseAddress = new Uri("https://localhost:44380/");
         HttpClient Client;
 
         private readonly IStudent _StudentServices;
@@ -57,7 +57,6 @@ namespace _3TierProjects1.Controllers
         [HttpGet]
         public IActionResult Form()
         {
-
             return View();
         }
         [HttpPost]
@@ -67,23 +66,28 @@ namespace _3TierProjects1.Controllers
 
             string data = JsonConvert.SerializeObject(obj);
             StringContent content = new StringContent(data, Encoding.UTF8, "application/json");
-            HttpResponseMessage res = Client.PostAsync(Client.BaseAddress + "Test/SetDetail", content).Result;            
+            HttpResponseMessage res = Client.PostAsync(Client.BaseAddress + "Test/SetDetail", content).Result;     
+            
             if (res.IsSuccessStatusCode)
             {
                 return RedirectToAction("Table");
-
             }
             ModelState.AddModelError(string.Empty, "Server Error. Please contact administrator.");
             return View();
         }
 
-
+        
         public IActionResult Delete(int Id)
         {
             _log.LogTrace("Is this Log Trace");
-            _StudentServices.delete(Id);
-
-            return RedirectToAction("Table");
+            HttpResponseMessage res = Client.DeleteAsync(Client.BaseAddress + "Test/DeleteDetail?Id=" + Id.ToString()).Result;
+            Console.Write("");
+            if (res.IsSuccessStatusCode)
+            {
+                return RedirectToAction("Table");
+            }
+            ModelState.AddModelError(string.Empty, "Server Error. Please contact administrator.");
+            return RedirectToAction("Table"); 
         }
 
         public JsonResult GetbyID(int ID)
@@ -93,9 +97,15 @@ namespace _3TierProjects1.Controllers
         }
 
         [AcceptVerbs("Post")]
-        public IActionResult Update(StudentModel emp,int Id)
+        public IActionResult Update(StudentModel obj,int Id)
         {
-            _StudentServices.Edit(emp,Id);
+            string data = JsonConvert.SerializeObject(obj);
+            StringContent content = new StringContent(data, Encoding.UTF8, "application/json");
+            HttpResponseMessage res = Client.PutAsync(Client.BaseAddress + "Test/UpdateDetail?Id=" + Id.ToString(), content).Result;
+            if (res.IsSuccessStatusCode)
+            {
+                return RedirectToAction("Table");
+            }
             return RedirectToAction("Table");
         }
 

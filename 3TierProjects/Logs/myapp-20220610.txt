@@ -1,0 +1,5 @@
+2022-06-10T22:47:41.5659072+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-06-10T22:47:41.5920599+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2022-06-10T22:47:41.5934134+05:30  [INF] Content root path: "C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects" (b5d60022)
+2022-06-10T22:47:44.3984566+05:30 800000e9-000a-fd00-b63f-84710c7967bb [INF] Hello you are accesing the Employee Detail (477d9868)
+2022-06-10T22:47:48.4136788+05:30 80000035-000c-fe00-b63f-84710c7967bb [INF] Hello you are accesing the Employee Detail (477d9868)

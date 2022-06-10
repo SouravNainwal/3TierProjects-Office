@@ -69,8 +69,16 @@ namespace _3TierProjects2.Service.Repository
         }
         public void Save(StudentModel obj)
         {
-            _db.EmployeeTable.AddAsync(obj);
-            _db.SaveChanges();
+            if (obj.Id == 0)
+            {
+                _db.EmployeeTable.Add(obj);
+                _db.SaveChanges();
+            }
+            else 
+            {
+                _db.EmployeeTable.Update(obj);
+                _db.SaveChanges();
+            }
         }
     }
 }

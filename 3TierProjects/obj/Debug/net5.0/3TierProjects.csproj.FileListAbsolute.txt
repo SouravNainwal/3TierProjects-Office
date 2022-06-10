@@ -332,3 +332,10 @@ C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\obj\Debug\n
 C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\obj\Debug\net5.0\ref\3TierProjects.dll
 C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\obj\Debug\net5.0\3TierProjects.pdb
 C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\obj\Debug\net5.0\3TierProjects.genruntimeconfig.cache
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\Serilog.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\Serilog.Extensions.Logging.File.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\Serilog.Sinks.Async.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\Serilog.Sinks.File.dll
+C:\Users\souravn\source\repos\Week3 Task\3TierProjects\3TierProjects\bin\Debug\net5.0\Serilog.Sinks.RollingFile.dll

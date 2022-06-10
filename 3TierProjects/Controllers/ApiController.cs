@@ -11,8 +11,7 @@ using System.Threading.Tasks;
 
 namespace _3TierProjects.Controllers
 {
-    //[Route("api/[controller]")]
-    //[ApiController]
+    [ApiController]
     public class ApiController : ControllerBase
     {
         readonly IStudent _StudentServices;
@@ -28,47 +27,32 @@ namespace _3TierProjects.Controllers
                 return rat;            
         }
         [HttpPost]
-        [Route("Api/SetDetail")]
-        public bool  SetDetail(StudentModel obj)
-        {
-            try
-            {
+        [Route("Test/SetDetail")]
+        public void  SetDetail(StudentModel obj)
+        {           
                  _StudentServices.Save(obj);
-                return true;
-            }
-            catch (Exception)
-            {
-
-                return false;
-            }
         }
         [HttpDelete]
         [Route("Test/DeleteDetail")]
-        public string DeleteDetail(int Id)
+        public bool DeleteDetail(int Id)
         {
             try
             {
                 _StudentServices.delete(Id);
-                return "Comleted";
-            }
-            catch(Exception)
-            {
-                return "Sorry Please check again";
-            }
-        }
-        [HttpPut]
-        [Route("Test/UpdateDetail")]
-        public bool UpdateDetail(StudentModel obj,int Id)
-        {
-            try
-            {
-                _StudentServices.Edit(obj,Id);
                 return true;
             }
-            catch (Exception)
+            catch
             {
                 return false;
             }
+        }        
+        [HttpPut]
+        [Route("Test/UpdateDetail")]
+        public JsonResult UpdateDetail(StudentModel obj,int Id)
+        {
+            
+                _StudentServices.Edit(obj,Id);
+                return new JsonResult("Sucess");         
         }   
         
     }

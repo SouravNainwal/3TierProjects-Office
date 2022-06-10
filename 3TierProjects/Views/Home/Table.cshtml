@@ -1,47 +1,48 @@
 ﻿@model List<_3TierProjects3.DAL.model.StudentModel>
+<div style="background-image: url(/css/Abc.jpg);  background-repeat: no-repeat; background-size: cover; background-attachment: fixed">
+    <br />
+    <h1 class="page-header">Employee List</h1>
+    <a asp-action="Form">Create New</a>
 
-        <br />
-        <h1>Employee List</h1>
-        <br />
-        <div>
-            <a asp-action="Form">Create New</a>
-        </div>
-        <table class="display" id="myTable">
-            <thead>
+    <table class="display " id="myTable">
+        <thead>
+            <tr>
+
+                <th scope="col" style="border: 1px solid black;">Name</th>
+                <th scope="col" style="border: 1px solid black;">Email</th>
+                <th scope="col" style="border: 1px solid black;">Phone_No</th>
+                <th scope="col" style="border: 1px solid black;">Address</th>
+                <th scope="col" style="border: 1px solid black;">Class</th>
+                <th scope="col" style="border: 1px solid black;">StudentId</th>
+                <th scope="col" style="border: 1px solid black;">Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
                 <tr>
 
-                    <th scope="col" style="border: 1px solid black;">Name</th>
-                    <th scope="col" style="border: 1px solid black;">Email</th>
-                    <th scope="col" style="border: 1px solid black;">Phone_No</th>
-                    <th scope="col" style="border: 1px solid black;">Address</th>
-                    <th scope="col" style="border: 1px solid black;">Class</th>
-                    <th scope="col" style="border: 1px solid black;">StudentId</th>
-                    <th scope="col" style="border: 1px solid black;">Action</th>
+                    <td scope="row" style="border: 1px solid black;">@item.Name </td>
+                    <td scope="row" style="border: 1px solid black;">@item.Email </td>
+                    <td scope="row" style="border: 1px solid black;">@item.PhoneNo </td>
+                    <td scope="row" style="border: 1px solid black;">@item.Address </td>
+                    <td scope="row" style="border: 1px solid black;">@item.Class </td>
+                    <td scope="row" style="border: 1px solid black;">@item.StudentId </td>
+                    <td scope="row" style="border: 1px solid black;">
+                        <a onclick="return getbyID(@item.Id)"><i class="fa fa-edit" style="color:blue"></i></a> ||
+                        <a asp-action="Details" asp-controller="Student" asp-route-id="@item.Id"><i class="fa fa-address-book" style="color:forestgreen"></i></a> ||
+                        <a asp-action="Delete" asp-controller="Home" asp-route-id="@item.Id"><i class="fa fa-trash" style="color:red"></i></a>
+                    </td>
+
                 </tr>
-            </thead>
-            <tbody>
-                @foreach (var item in Model)
-                {
-                    <tr>
-
-                        <td scope="row" style="border: 1px solid black;">@item.Name </td>
-                        <td scope="row" style="border: 1px solid black;">@item.Email </td>
-                        <td scope="row" style="border: 1px solid black;">@item.PhoneNo </td>
-                        <td scope="row" style="border: 1px solid black;">@item.Address </td>
-                        <td scope="row" style="border: 1px solid black;">@item.Class </td>
-                        <td scope="row" style="border: 1px solid black;">@item.StudentId </td>
-                        <td scope="row" style="border: 1px solid black;">
-                            <a onclick="return getbyID(@item.Id)"><i class="fa fa-edit" style="color:blue"></i></a> ||
-                            <a asp-action="Details" asp-controller="Student" asp-route-id="@item.Id"><i class="fa fa-address-book" style="color:forestgreen"></i></a> ||
-                            <a asp-action="Delete" asp-controller="Home" asp-route-id="@item.Id"><i class="fa fa-trash" style="color:red"></i></a>
-                        </td>
-
-                    </tr>
-                }
-            </tbody>
-        </table>
-
-
+            }
+        </tbody>
+    </table>
+    <br />
+    <br />
+    <br />
+    <br />
+</div> 
     <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
         <div class="modal-dialog" role="document">
             <div class="modal-content">
